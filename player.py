@@ -4,8 +4,8 @@ class Player:
 		self.name = name
 		self.symbol = symbol
 
-	def get_name(self):
+	def get_name(self) -> str:
 		return self.name
 
-	def get_symbol(self):
+	def get_symbol(self) -> str:
 		return self.symbol
