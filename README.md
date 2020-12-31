@@ -1,6 +1,19 @@
 # hash-game
 A simple CLI hash game in Python
 
-Run: python main.py
+## Requeriments
+* Python 3.7 +
 
-> Project Status: Concluded :heavy_check_mark:
+## Quickstart
+1. Clone this repository to your local.
+> `https://github.com/hermanodecastro/hash-game-python.git`
+
+2. Run `python ` to start the application.
+
+## Application
+![hash-game-python-img-1](https://user-images.githubusercontent.com/45005417/103419425-c8f7c200-4b71-11eb-8284-01a3211211b8.png)
+
+![hash-game-python-img-2](https://user-images.githubusercontent.com/45005417/103419430-cbf2b280-4b71-11eb-9355-13b6ba3b2cac.png)
+
+
+
